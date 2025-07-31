@@ -23,19 +23,3 @@ The exercises cover a variety of topics, including:
 - VS Code (or any text editor)
 - Execution via terminal / IDLE
 
-## 📂 Folder Structure
-
-```plaintext
-exercises/
-│
-├── level_1/
-│   ├── exercise1.py
-│   ├── exercise2.py
-│   └── ...
-│
-├── level_2/
-│   ├── ...
-│
-└── projects/
-    ├── calculator.py
-    └── ...
